@@ -1,6 +1,6 @@
 ## Hi there, I'm Matheus Marcolin 👋
   Student at UNISINOS/BR <br>
-  Commputer Science
+  Computer Science
 
 ## About me
 
