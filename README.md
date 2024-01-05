@@ -2,9 +2,6 @@
   Student at UNISINOS/BR <br>
   Computer Science
 
-## My repositories
-  Oops, they're currently private due to maintenance. Thank you for understanding 😁
-
 ## About me
 
  <a href="https://linkedin.com/in/mmmarcolin">
